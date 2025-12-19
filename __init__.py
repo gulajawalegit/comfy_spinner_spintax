@@ -1,0 +1,3 @@
+# ComfyUI/custom_nodes/comfyui_spintax_spinner/__init__.py
+
+from .nodes import NODE_CLASS_MAPPINGS, NODE_DISPLAY_NAME_MAPPINGS
